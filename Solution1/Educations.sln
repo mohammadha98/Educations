@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Educations.IoC", "Educations.IoC", "{B8454E77-83CA-4142-9CC9-458795D7329C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Educations.Mvc", "Educations.Mvc", "{D9E93F87-7541-4F2A-8CCA-F699CA08F15E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Educations.Data", "Educations.Data", "{E9D4FA4B-0AF7-47DC-9889-2618E5097E6D}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8F31AD-C007-41B1-B867-AE023CCBCD88}
+	EndGlobalSection
+EndGlobal
