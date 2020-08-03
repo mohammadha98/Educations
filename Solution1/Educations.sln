@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Educations.IoC", "Educations.IoC", "{B8454E77-83CA-4142-9CC9-458795D7329C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{B8454E77-83CA-4142-9CC9-458795D7329C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Educations.Mvc", "Educations.Mvc", "{D9E93F87-7541-4F2A-8CCA-F699CA08F15E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D9E93F87-7541-4F2A-8CCA-F699CA08F15E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Educations.Data", "Educations.Data", "{E9D4FA4B-0AF7-47DC-9889-2618E5097E6D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Data", "Infra.Data", "{E9D4FA4B-0AF7-47DC-9889-2618E5097E6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{F2DB5202-104B-45C7-8E91-CF7DA7EF86B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{D72F87FE-E8FC-4804-9132-47A259C41216}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
